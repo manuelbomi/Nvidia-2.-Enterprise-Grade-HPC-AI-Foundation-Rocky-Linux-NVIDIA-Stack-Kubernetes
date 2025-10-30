@@ -1,4 +1,4 @@
-# Enterprise-Grade HPC & AI Foundation: Rocky Linux + NVIDIA Stack + Kubernetes
+# <ins>Mvidia HPC 1</ins>: Enterprise-Grade HPC & AI Foundation: Rocky Linux + NVIDIA Stack + Kubernetes
 
 ## Overview
 
